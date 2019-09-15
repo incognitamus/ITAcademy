@@ -1,0 +1,1 @@
+C:\Users\Nogic Dzanan\source\repos\UWP_ResponsiveLayout\UWP_ResponsiveLayout\UWP_ResponsiveLayout.csproj;x86
