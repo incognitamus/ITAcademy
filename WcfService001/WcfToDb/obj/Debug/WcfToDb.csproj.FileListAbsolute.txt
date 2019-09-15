@@ -1,0 +1,14 @@
+C:\Users\Nogic Dzanan\source\repos\WcfService001\WcfToDb\bin\Debug\WcfToDb.dll.config
+C:\Users\Nogic Dzanan\source\repos\WcfService001\WcfToDb\bin\Debug\WcfToDb.dll
+C:\Users\Nogic Dzanan\source\repos\WcfService001\WcfToDb\bin\Debug\WcfToDb.pdb
+C:\Users\Nogic Dzanan\source\repos\WcfService001\WcfToDb\obj\Debug\WcfToDb.csprojAssemblyReference.cache
+C:\Users\Nogic Dzanan\source\repos\WcfService001\WcfToDb\obj\Debug\WcfToDb.csproj.CoreCompileInputs.cache
+C:\Users\Nogic Dzanan\source\repos\WcfService001\WcfToDb\obj\Debug\WcfToDb.dll
+C:\Users\Nogic Dzanan\source\repos\WcfService001\WcfToDb\obj\Debug\WcfToDb.pdb
+C:\Users\Nogic Dzanan\Desktop\WcfService001\WcfToDb\bin\Debug\WcfToDb.dll.config
+C:\Users\Nogic Dzanan\Desktop\WcfService001\WcfToDb\bin\Debug\WcfToDb.dll
+C:\Users\Nogic Dzanan\Desktop\WcfService001\WcfToDb\bin\Debug\WcfToDb.pdb
+C:\Users\Nogic Dzanan\Desktop\WcfService001\WcfToDb\obj\Debug\WcfToDb.csprojAssemblyReference.cache
+C:\Users\Nogic Dzanan\Desktop\WcfService001\WcfToDb\obj\Debug\WcfToDb.csproj.CoreCompileInputs.cache
+C:\Users\Nogic Dzanan\Desktop\WcfService001\WcfToDb\obj\Debug\WcfToDb.dll
+C:\Users\Nogic Dzanan\Desktop\WcfService001\WcfToDb\obj\Debug\WcfToDb.pdb
